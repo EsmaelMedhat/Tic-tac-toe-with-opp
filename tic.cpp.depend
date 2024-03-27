@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1710259232 source:e:\cs_50\new folder\tic.cpp\main.cpp
+	<Game.h>
+
+1710253293 source:e:\cs_50\new folder\tic.cpp\src\player.cpp
+	"Player.h"
+	<iostream>
+	<cctype>
+	<string>
+
+1710253326 e:\cs_50\new folder\tic.cpp\include\player.h
+	<cctype>
+	<string>
+
+1710253607 source:e:\cs_50\new folder\tic.cpp\src\menu.cpp
+	"Menu.h"
+	<iostream>
+
+1710253474 e:\cs_50\new folder\tic.cpp\include\menu.h
+
+1710253963 source:e:\cs_50\new folder\tic.cpp\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1710253780 e:\cs_50\new folder\tic.cpp\include\board.h
+
+1711567610 source:e:\cs_50\new folder\tic.cpp\src\game.cpp
+	"Game.h"
+	<iostream>
+
+1710257598 e:\cs_50\new folder\tic.cpp\include\game.h
+	<Player.h>
+	<Board.h>
+	<Menu.h>
+
